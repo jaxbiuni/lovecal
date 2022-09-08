@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: #FFB2D7;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.name {
+  position: relative;
+  right: 24px;
+}
+
+input {
+  position: relative;
+  bottom: 10px;
+}
+
+.names {
+  position: relative;
+  right: 18px;
+}
+
+.img-div {
+  padding-top: 2%;
+}
+
+.chui-img {
+  border-radius: 100%;
+  width: 131px;
+  height: 141px;
+
+}
+
+.approve {
+  padding-top: 2%;
+}
+
+.chui {
+  padding: 3% 3%;
+}
